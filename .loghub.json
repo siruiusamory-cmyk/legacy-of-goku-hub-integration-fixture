@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "title": "Integration fixture only",
+  "developer": "LoG Hub operational tests",
+  "description": "Isolated automated integration fixture, never a production community project or game release.",
+  "game": "multiple",
+  "category": "tool",
+  "status": "released",
+  "cover": "images/cover.png",
+  "screenshots": [
+    "images/screen.png"
+  ]
+}
