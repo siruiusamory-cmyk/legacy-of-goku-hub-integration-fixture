@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "Integration fixture only",
   "developer": "LoG Hub operational tests",
-  "description": "Isolated automated integration fixture, never a production community project or game release.",
+  "description": "Updated live manifest for LOG-HUB-003; this remains an isolated fixture excluded from production.",
   "game": "multiple",
   "category": "tool",
   "status": "released",
